@@ -6,7 +6,7 @@ To build the program, you need a C++ compiler (like `g++`). Navigate to the proj
 ```bash
 g++ main.cpp process.cpp sorting.cpp -o sorting_program
 ```
-***Note: On Windows, this will generate `sorting_program.exe`.***
+***Note: On Windows, this will generate*** `sorting_program.exe`.
 
 ## 🚀 Usage Guide
 The program operates in two primary modes: **Algorithm Mode** and **Comparison Mode**.
